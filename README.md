@@ -1,0 +1,2 @@
+# Flight-Price-Prediction
+In the Dataset we have Flight Travel Price listing for various locations in India. The time period of the data is from March 1st 2019 to June 9th 2019. Based on the given data, created a Machine Learning model to predict the Flight price for future dates based on the given factors. Using this model the user can check the predicted flight price of different services without actually going into their website. 
